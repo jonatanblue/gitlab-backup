@@ -1,2 +1,2 @@
 #!/bin/bash
-dd if=/xvda1 of=/dev/null bs=1m
+dd if=/dev/xvda1 of=/dev/null bs=1m
